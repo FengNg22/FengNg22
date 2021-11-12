@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FengNg22
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning SQL, Tableau, and Python. 
+- 👀 I’m interested in code design and analysis
+- 🌱 I’m currently learning SQL and Python. 
 - 💞️ I’m looking to continuous learning and improve together. 
 - 📫 Do feel free to reach me at wfengng@gmail.com
 
